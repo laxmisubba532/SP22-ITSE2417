@@ -57,7 +57,7 @@ public class Itse2417Main
             new FinalProj(),          // Pokluda
             new FinalProj(),          // Rascon
             new FinalProj(),          // Rodriguez
-            new FinalProj(),          // Subba
+            new LaxmiMenu(),          // Subba
             new FinalProj(),          // Terrell
             new FinalProj(),          // Willis Hall
             new SmileyMenu()          // Smiley
